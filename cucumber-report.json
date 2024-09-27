@@ -1,0 +1,217 @@
+[
+  {
+    "description": "    To add item in the cart ",
+    "elements": [
+      {
+        "description": "",
+        "id": "my-practice-feature-for-flipkart;search-and-select-the-desired-product-from-flipkart",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Search and Select the desired product from FlipKart",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 10,
+            "name": "user launch the FlipKart page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "user search the iphone15 in the search bar",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "user select the Product iphone15 blue color from list",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "user successfully selected the desired product",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "my-practice-feature-for-flipkart;search-and-select-the-desired-product-from-flipkart",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "Search and Select the desired product from FlipKart",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 18,
+            "name": "user launch the FlipKart page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "user search the iphone15 in the search bar",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "user select the Product iphone15 blue color from list",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "user successfully selected the desired product",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest",
+            "line": 15
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "my-practice-feature-for-flipkart;search-and-select-the-desired-product-from-flipkart",
+        "keyword": "Scenario",
+        "line": 25,
+        "name": "Search and Select the desired product from FlipKart",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 27,
+            "name": "user launch the FlipKart page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "user search the iphone15 in the search bar",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "user select the Product iphone15 blue color from list",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 30,
+            "name": "user successfully selected the desired product",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "Passed",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest",
+            "line": 24
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "my-practice-feature-for-flipkart",
+    "line": 3,
+    "keyword": "Feature",
+    "name": "My practice feature for Flipkart",
+    "tags": [],
+    "uri": "cypress\\integration\\examples\\BDD\\FlipKart.feature"
+  }
+]
